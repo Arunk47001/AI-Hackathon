@@ -1,0 +1,3 @@
+
+def cropLossPrompt():
+    return "Given the following update about crop conditions and market news in Mandya district for 2025, extract and list all important details related to crop loss events, especially market crashes or price drops of major crops like tomatoes and mangoes. Make the summary concise (under 100 characters), alerting, and helpful for farmers. Avoid technical jargon.also inform stat and price. dont give the reason for loss. Keep it in a tone suitable for a rural agriculture chatbot. in Kannada only"

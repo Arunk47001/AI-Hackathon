@@ -1,0 +1,4 @@
+google-genai~=1.27.0
+Flask==2.3.2
+Flask-Cors~=1.10.3
+requests~=2.32.3

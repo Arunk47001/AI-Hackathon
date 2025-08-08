@@ -70,3 +70,8 @@ This project aims to provide **AI-powered agricultural assistance** to farmers t
 - Market insights and ROI calculation.
 - Scalable and secure backend powered by GCP and Vertex AI.
 
+---
+
+## 📚 Documentation
+- API and Module Reference: see `docs/API.md`
+
